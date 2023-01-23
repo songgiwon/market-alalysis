@@ -5,3 +5,5 @@ Market-analysis-project
 -what?
 
 -how?
+
+-process
