@@ -8,3 +8,4 @@ Market-analysis-project
 
 -process
 -data-collecting
+-data-loading
