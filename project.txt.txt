@@ -7,3 +7,4 @@ Market-analysis-project
 -how?
 
 -process
+-data-collecting
